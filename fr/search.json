@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "content/blogs/blog2/index.html",
+    "href": "content/blogs/blog2/index.html",
+    "title": "Blog 2",
+    "section": "",
+    "text": "Contenu français de blog 2"
+  },
+  {
+    "objectID": "content/blogs/index.html",
+    "href": "content/blogs/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Aucun article correspondant"
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Accuel",
+    "section": "",
+    "text": "Contenu français"
+  },
+  {
+    "objectID": "content/cv.html",
+    "href": "content/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Contenu français"
+  },
+  {
+    "objectID": "content/blogs/blog1/index.html",
+    "href": "content/blogs/blog1/index.html",
+    "title": "Blog 1",
+    "section": "",
+    "text": "Contenu français"
+  }
+]

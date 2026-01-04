@@ -1,0 +1,1 @@
+Sitemap: https://sergegoussev.github.io/babelquarto-example/fr/sitemap.xml

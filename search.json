@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "content/blogs/blog2/index.html",
+    "href": "content/blogs/blog2/index.html",
+    "title": "Blog 2",
+    "section": "",
+    "text": "English contents of blog 1"
+  },
+  {
+    "objectID": "content/blogs/index.html",
+    "href": "content/blogs/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJan 2, 2026\n\n\nBlog 1\n\n\nFirst Last\n\n\n\n\n\n\nJan 2, 2026\n\n\nBlog 2\n\n\nFirst Last\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "English contents"
+  },
+  {
+    "objectID": "content/cv.html",
+    "href": "content/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "English content"
+  },
+  {
+    "objectID": "content/blogs/blog1/index.html",
+    "href": "content/blogs/blog1/index.html",
+    "title": "Blog 1",
+    "section": "",
+    "text": "English blog 1 content"
+  }
+]
