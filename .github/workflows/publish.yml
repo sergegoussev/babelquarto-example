@@ -19,6 +19,9 @@ jobs:
         with:
           version: pre-release
 
+      - name: Install tinytex
+        run: quarto install tinytex
+
       # install libcurl, needed for curl R package
       - name: Install R package deps
         run: |
