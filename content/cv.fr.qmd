@@ -1,0 +1,14 @@
+---
+title: CV
+subtitle: Mes experiences professionnelles
+format:
+  pdf:
+    documentclass: article
+    papersize: letter
+  html:
+    toc: true
+    toc-expand: 2
+    body-width: 1200px 
+---
+
+Contenu français

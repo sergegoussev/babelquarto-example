@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "babelquarto example"
+  draft-mode: visible
+  navbar:
+    left:
+      - href: content/index.qmd
+      #- href: content/cv.qmd
+      - href: content/blogs/index.qmd
+    right: []
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+babelquarto:
+  languagecodes:
+  - name: fr
+    text: "French"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['fr']
+title-fr: Exaple de babelquarto
+description-fr: description in fr
+author-fr: author in fr
+lang: en
+

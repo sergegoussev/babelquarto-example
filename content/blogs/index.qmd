@@ -1,0 +1,16 @@
+---
+title: "Blog"
+lang: en
+listing:
+  contents:
+      - /**/*.qmd
+  include:
+    lang: en
+  sort: "date desc"
+  type: table
+  categories: true
+format:
+  html:
+    toc: true
+    toc-expand: 2
+---
